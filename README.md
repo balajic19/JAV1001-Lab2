@@ -43,10 +43,9 @@ apples
 The encrypted String of fuuqjx is: apples  
 Decrypting apples with --5...  
 fuuqjx  
-
-
-
-
+  
+  
+  
 ### CASE 2 -> 
 
 ### INPUT:
