@@ -19,7 +19,7 @@
 ##
 ## Code Output  
 
-### CASE 1 ->  
+### CASE 1 -> 
 
 ### INPUT:  
 1. String Encryption   
