@@ -1,47 +1,47 @@
 # JAV1001-Lab2
 #
-## Student 1: 
-### Name: Balaji Chandupatla
-### Student Number: A00245077
+## Student 1:  
+### Name: Balaji Chandupatla  
+### Student Number: A00245077  
 #
-## Student 2:
-### Name: Gaganpreet Kaur
-### Student Number: A00245156
+## Student 2:  
+### Name: Gaganpreet Kaur  
+### Student Number: A00245156   
 #
 #
-## Program Description: 
-### Program to 
-### 1. Cipher a given string using Caeser Cipher method.
-### 2. Return the average of an array of integers.
-### 3. Check if a given element is present in the array.
-### 4. Return the reverse of the array.
+## Program Description:  
+### Program to  
+### 1. Cipher a given string using Caeser Cipher method.  
+### 2. Return the average of an array of integers.  
+### 3. Check if a given element is present in the array.  
+### 4. Return the reverse of the array.  
 
 ##
-## Code Output
+## Code Output  
 
-### CASE 1 ->
+### CASE 1 ->  
 
-### INPUT: 
-1. String Encryption  
-2. Playing with Arrays
-Choose between above two options: 1
-Enter number of strings to encrypt: 2
+### INPUT:  
+1. String Encryption   
+2. Playing with Arrays  
+Choose between above two options: 1  
+Enter number of strings to encrypt: 2  
 
-Enter string no.1 to encrypt: apples
-Enter a value to encrypt with: 5
+Enter string no.1 to encrypt: apples  
+Enter a value to encrypt with: 5  
 
-Enter string no.2 to encrypt: fuuqjx
-Enter a value to encrypt with: -5
+Enter string no.2 to encrypt: fuuqjx  
+Enter a value to encrypt with: -5  
 
 
-### OUTPUT:
-The encrypted String of apples is: fuuqjx
-Decrypting fuuqjx with -5...
-apples
+### OUTPUT:  
+The encrypted String of apples is: fuuqjx  
+Decrypting fuuqjx with -5...  
+apples  
 
-The encrypted String of fuuqjx is: apples
-Decrypting apples with --5...
-fuuqjx
+The encrypted String of fuuqjx is: apples  
+Decrypting apples with --5...  
+fuuqjx  
 
 
 
