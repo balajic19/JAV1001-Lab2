@@ -47,7 +47,7 @@ fuuqjx
 
 
 
-## CASE 2 -> 
+### CASE 2 -> 
 
 ### INPUT:
 1. String Encryption  
