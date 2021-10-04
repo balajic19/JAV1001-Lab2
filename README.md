@@ -24,6 +24,7 @@
 ### INPUT:  
 1. String Encryption   
 2. Playing with Arrays  
+
 Choose between above two options: 1  
 Enter number of strings to encrypt: 2  
 
@@ -51,6 +52,7 @@ fuuqjx
 ### INPUT:
 1. String Encryption  
 2. Playing with Arrays
+
 Choose between above two options: 2
 Enter number of arrays: 2
 
