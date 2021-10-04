@@ -16,7 +16,7 @@
 ### 3. Check if a given element is present in the array.
 ### 4. Return the reverse of the array.
 
-
+##
 ## Code Output
 
 ### CASE 1 ->
@@ -38,12 +38,11 @@ Enter a value to encrypt with: -5
 The encrypted String of apples is: fuuqjx
 Decrypting fuuqjx with -5...
 apples
---------------------------------------------------------------------------------
 
 The encrypted String of fuuqjx is: apples
 Decrypting apples with --5...
 fuuqjx
---------------------------------------------------------------------------------
+
 
 
 
@@ -72,7 +71,7 @@ Enter a value to search for: 2
 
 Array no.1 contains 2
 Reverse of array 1 is [5, 4, 3, 2, 1]
---------------------------------------------------------------------------------
+
 
 ### INPUT:
 Enter the number of elements in array no.2: 3
@@ -90,4 +89,3 @@ Enter a value to search for: 5
 Array no.2 does not contain 5
 
 Reverse of array 2 is [15, 23, 10]
---------------------------------------------------------------------------------
